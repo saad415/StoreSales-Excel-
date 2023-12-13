@@ -3,6 +3,7 @@
 ## Project Overview
 
 The objective of this project was to create an annual sales report for a store, aiming to gain a better understanding of customer behavior and ultimately increase sales. Several data preprocessing steps were undertaken to clean and structure the data for analysis.
+![Sales Report](https://github.com/saad415/StoreSales-/blob/main/ss.png)
 
 ### Data Preprocessing
 
