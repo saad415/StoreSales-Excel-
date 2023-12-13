@@ -1,0 +1,9 @@
+
+
+Convert date to month:
+=TEXT(G2; "MMM")
+
+=IF(E2>=50;"Senior"; IF(E2>=30;"Adult";"Teenager"))
+
+Number custome format to Millions:
+#0.0,,"M"
